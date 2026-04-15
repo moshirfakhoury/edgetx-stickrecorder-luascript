@@ -7,7 +7,8 @@ The tool reads recorded log files and recreates stick positions on-screen with a
 
 Features:
 
-- Real-Time Stick Playback
+**- Real-Time Stick Playback**
+  
   Visualizes Aileron, Elevator, Throttle, and Rudder movements exactly as recorded.
 - Accurate Timing System
   Playback matches the original recording speed using millisecond precision.
