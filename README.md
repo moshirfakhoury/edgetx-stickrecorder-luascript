@@ -28,8 +28,8 @@ Stores switch assignments and settings using EdgeTX global variables.
 
 - Download the StickRecorder ZIP file 
 - Extract the contents of the ZIP file
-- Find the last folder named StickRecorder
-- Copy StickRecorder.lua and paste into your transmitter's /SCRIPTS/TOOLS folder
+- Find the last folder named Stick Recorder (folder will contain Stick Recorder.lua, strbg.lua & StickRecorder folder)
+- Copy Stick Recorder.lua and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy StickRecorder folder and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy strbg.lua and paste into your transmitter's /SCRIPTS/FUNCTIONS folder
 
