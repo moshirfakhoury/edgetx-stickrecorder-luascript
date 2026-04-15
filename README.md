@@ -23,3 +23,22 @@ Loads large log files without freezing the radio UI.
 Dual stick visualization with labeled channels and clear navigation.
 - Global Variable Configuration:
 Stores switch assignments and settings using EdgeTX global variables.
+
+Installation:
+
+
+<img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/47850d9c-3790-4c73-b83a-174885937e65" />
+
+<img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/11f3b616-60fa-4418-bdb6-21e9cd5946d3" />
+
+<img width="477" height="271" alt="image" src="https://github.com/user-attachments/assets/7910c2dd-3ddb-4274-8599-e103d0e1b807" />
+
+<img width="477" height="269" alt="image" src="https://github.com/user-attachments/assets/9f48d255-cc35-45ba-a486-a4d4600d868c" />
+
+
+
+
+
+
+
+
