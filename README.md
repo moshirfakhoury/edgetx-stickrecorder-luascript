@@ -24,8 +24,14 @@ Dual stick visualization with labeled channels and clear navigation.
 - Global Variable Configuration:
 Stores switch assignments and settings using EdgeTX global variables.
 
-Installation:
+**Installation:**
 
+- Download the StickRecorder ZIP file 
+- Extract the contents of the ZIP file
+- Find the last folder named StickRecorder
+- Copy StickRecorder.lua and paste into your transmitter's /SCRIPTS/TOOLS folder
+- Copy StickRecorder folder and paste into your transmitter's /SCRIPTS/TOOLS folder
+- Copy strbg.lua and paste into your transmitter's /SCRIPTS/FUNCTIONS folder
 
 <img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/47850d9c-3790-4c73-b83a-174885937e65" />
 
