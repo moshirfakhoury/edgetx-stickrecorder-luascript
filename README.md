@@ -17,6 +17,8 @@ Browse and select log files directly from the radio with filtering options.
 Enter a specific time (MM:SS) to instantly jump to any point in the recording.
 - Play / Pause Control:
 Pause and resume playback smoothly without losing sync.
+- Motor / Arm Display:
+Logs and Displays Motor On/Off & Armed/Disarmed.
 - Streaming File Loader:
 Loads large log files without freezing the radio UI.
 - Clean UI Layout: 
