@@ -17,8 +17,8 @@ Browse and select log files directly from the radio with filtering options.
 Enter a specific time (MM:SS) to instantly jump to any point in the recording.
 - Play / Pause Control:
 Pause and resume playback smoothly without losing sync.
-- Motor / Arm Display:
-Logs and Displays Motor On/Off & Armed/Disarmed.
+- Motor / Arm / Flight Mode Display:
+Logs and Displays Motor On/Off, Armed/Disarmed and Flight Mode.
 - Streaming File Loader:
 Loads large log files without freezing the radio UI.
 - Clean UI Layout: 
@@ -56,6 +56,8 @@ Stores switch assignments and settings using EdgeTX global variables.
 - Click on GV7
 - Click Edit
 - Enable FM7 and FM8
+
+Optional - if you want Flight Modes to be logged, you need to step them up in the transmitter using the standard Flight Mode menu
 
 <img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/47850d9c-3790-4c73-b83a-174885937e65" />
 
