@@ -50,6 +50,9 @@ Stores switch assignments and settings using EdgeTX global variables.
 
 - Click the MDL button
 - Navigate to Global Variables
+- Click on GV6
+- Click Edit
+- Enable FM5 to FM8
 - Click on GV7
 - Click Edit
 - Enable FM7 and FM8
