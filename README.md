@@ -35,6 +35,25 @@ Stores switch assignments and settings using EdgeTX global variables.
 - Copy StickRecorder folder and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy strbg.lua and paste into your transmitter's /SCRIPTS/FUNCTIONS folder
 
+**Transmitter Setup:**
+
+- Click on the SYS button
+- Navigate to Global Functions
+- Add a new Function with the below settings
+- Trigger = ON
+- Function = Lua Script
+- Value = strbg
+- Repeat = On
+- Enable = True
+
+**Configure the below Steps for each model:**
+
+- Click the MDL button
+- Navigate to Global Variables
+- Click on GV7
+- Click Edit
+- Enable FM7 and FM8
+
 <img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/47850d9c-3790-4c73-b83a-174885937e65" />
 
 <img width="477" height="270" alt="image" src="https://github.com/user-attachments/assets/11f3b616-60fa-4418-bdb6-21e9cd5946d3" />
