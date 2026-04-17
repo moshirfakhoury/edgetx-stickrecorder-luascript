@@ -57,7 +57,7 @@ Stores switch assignments and settings using EdgeTX global variables.
 - Click Edit
 - Enable FM7 and FM8
 
-Optional - if you want Flight Modes to be logged, you need to step them up in the transmitter using the standard Flight Mode menu
+Optional - if you want Flight Modes to be logged, you need to set them up in the transmitter using the standard Flight Mode menu
 
 <img width="478" height="271" alt="image" src="https://github.com/user-attachments/assets/47850d9c-3790-4c73-b83a-174885937e65" />
 
