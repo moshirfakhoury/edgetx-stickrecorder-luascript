@@ -12,23 +12,23 @@ The tool reads recorded log files and recreates stick positions on-screen with a
 
 **Features:**
 
-**- Real-Time Stick Playback:**
+- Real-Time Stick Playback:
 Visualizes Aileron, Elevator, Throttle, and Rudder movements exactly as recorded.
-**- Accurate Timing System:**
+- Accurate Timing System:
 Playback matches the original recording speed using millisecond precision.
-**- File Browser:**
+- File Browser:
 Browse and select log files directly from the radio with filtering options.
-**- Jump to Time:** 
+- Jump to Time:
 Enter a specific time (MM:SS) to instantly jump to any point in the recording.
-**- Play / Pause Control:**
+- Play / Pause Control:
 Pause and resume playback smoothly without losing sync.
-**- Motor / Arm / Flight Mode Display:**
+- Motor / Arm / Flight Mode Display:
 Logs and Displays Motor On/Off, Armed/Disarmed and Flight Mode.
-**- Streaming File Loader:**
+- Streaming File Loader:
 Loads large log files without freezing the radio UI.
-**- Clean UI Layout:** 
+- Clean UI Layout: 
 Dual stick visualization with labeled channels and clear navigation.
-**- Model-Based Configuration:**
+- Model-Based Configuration:
 Uses a per-model config file to store switch assignments and settings, eliminating the need for EdgeTX global variables and simplifying setup.
 
 **Installation:**
