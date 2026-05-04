@@ -33,10 +33,10 @@ Uses a per-model config file to store switch assignments and settings, eliminati
 
 **Installation:**
 
-- Download the StickRecorder ZIP file 
+- Download the Stick Recorder V2 ZIP file 
 - Extract the contents of the ZIP file
-- Find the last folder named Stick Recorder (folder will contain Stick Recorder.lua, strbg.lua & StickRecorder folder)
-- Copy Stick Recorder.lua and paste into your transmitter's /SCRIPTS/TOOLS folder
+- Find the last folder named Stick Recorder V2 (folder will contain Stick Recorder V2.lua, strbg.lua & StickRecorder folder)
+- Copy Stick Recorder V2.lua and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy StickRecorder folder and paste into your transmitter's /SCRIPTS/TOOLS folder
 - Copy strbg.lua and paste into your transmitter's /SCRIPTS/FUNCTIONS folder
 
