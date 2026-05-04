@@ -1,3 +1,8 @@
+**Important Note:**
+
+Stick Recorder V2 is the latest and improved version of the script. The key change is that switch configuration is no longer stored in Global Variables (GV6 & GV7). Instead, settings are saved to a model-specific config file.
+
+This removes the need to manually set up global variables for each model, frees them up for other uses, and provides a more flexible foundation for future enhancements—allowing additional configuration options to be stored and expanded over time.
 
 **Overview:**
 
@@ -23,8 +28,8 @@ Logs and Displays Motor On/Off, Armed/Disarmed and Flight Mode.
 Loads large log files without freezing the radio UI.
 - Clean UI Layout: 
 Dual stick visualization with labeled channels and clear navigation.
-- Global Variable Configuration:
-Stores switch assignments and settings using EdgeTX global variables.
+- Model-Based Configuration:
+Uses a per-model config file to store switch assignments and settings, eliminating the need for EdgeTX global variables and simplifying setup.
 
 **Installation:**
 
@@ -47,15 +52,6 @@ Stores switch assignments and settings using EdgeTX global variables.
 - Enable = True
 
 **Configure the below Steps for each model:**
-
-- Click the MDL button
-- Navigate to Global Variables
-- Click on GV6
-- Click Edit
-- Enable FM5 to FM8
-- Click on GV7
-- Click Edit
-- Enable FM7 and FM8
 
 Optional - if you want Flight Modes to be logged, you need to set them up in the transmitter using the standard Flight Mode menu
 
