@@ -30,6 +30,7 @@ Loads large log files without freezing the radio UI.
 Dual stick visualization with labeled channels and clear navigation.
 - Model-Based Configuration:
 Uses a per-model config file to store switch assignments and settings, eliminating the need for EdgeTX global variables and simplifying setup.
+- **NEW V2 FEATURE** Optional Rescue switch can be configured and is displayed during playback 
 
 **Installation:**
 
